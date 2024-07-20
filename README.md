@@ -1,2 +1,2 @@
 # Analog-Clock
-@![Screenshot (43)](https://github.com/user-attachments/assets/000f5e44-fc2a-47d1-915a-23d0c75a4b77)
+![Screenshot (46)](https://github.com/user-attachments/assets/f0a817be-0c02-4df1-a2f3-edd38d104cea)
